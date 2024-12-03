@@ -1,2 +1,5 @@
-### Learning in progress...
-![Animation-17332302786562-ezgif com-crop](https://github.com/user-attachments/assets/a0d3afbb-1848-4f33-a714-a227b965202b)
+<div align="center">
+  <strong>Learning in progress...</strong><br>
+  <img src="https://github.com/user-attachments/assets/d9458de2-d234-47df-acb8-6a70b5cacaf8" 
+       alt="Learning in Progress GIF" width="150">
+</div>
